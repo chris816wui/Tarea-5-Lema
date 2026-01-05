@@ -67,11 +67,12 @@ Configura el monitor serial con los siguientes parámetros:
 
 Ejecuta el archivo diagram.json y simula cada ejercicio desde el entorno de Wokwi en VS Code.
 
+---
 ## 👤 Autor
 
 - **Christopher Lema** 
-Tarea Individual – Sistemas Embebidos - IIPAO 2025
 
+---
 ## 📄 Licencia
 
 Sin licencia, para fines académicos y educativos.
