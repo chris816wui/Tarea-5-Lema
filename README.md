@@ -1,28 +1,47 @@
-# Tarea-5-Lema
-Sistemas Embebidos IIPAO 2025
-El repositorio consta de 4 ejercicios destinados a reforzar los conocimientos acerca de la comunicación con UART2, multitareas con FreeRtos, ahorro de energía y un sistema integrado de comunicación y multitarea.
+# 📘 Tarea 5 – Sistemas Embebidos  
+**Sistemas Embebidos IIPAO 2025**
 
-# Requisitos para el desarrollo de cada ejercicio:
-Microcontrolador: ESP32
-Framework: ESP-IDF
-RTOS: FreeRTOS
-Comunicación: UART
-Lenguaje: C
-Entorno de desarrollo: VS Code + ESP-IDF
-Extensiones: Platformio, serial monitor y wokwi para vscode.
+Este repositorio contiene **cuatro ejercicios prácticos** desarrollados sobre el **ESP32**, cuyo objetivo es reforzar los conocimientos relacionados con:
 
-# Cómo ejecutar el proyecto
-1. Clona el repositorio: git clone https://github.com/tu-usuario/tu-repositorio.git
-2. Instala las extensiones adicionales: platformio, serial monitor y wokwi para vs code.
-3. Compila en platformio
-4. Configura el monitor serial con monitor mode: tcp, host: localhost, puerto: 4000
-5. Ejecuta wokwi.toml y simula cada ejercicio.
+- Comunicación serial mediante **UART**
+- Programación **multitarea con FreeRTOS**
+- **Ahorro de energía** en sistemas embebidos
+- Integración de **UART + FreeRTOS** en un sistema completo y funcional
 
+Cada ejercicio aborda un concepto específico y aumenta progresivamente el nivel de integración y complejidad del sistema.
 
-# Autor
-Christopher Lema
-Proyecto académico – Sistemas Embebidos
+---
 
-# Licencia
-Este proyecto se distribuye bajo licencia MIT.
-Puedes utilizarlo y modificarlo libremente para fines académicos y educativos.
+## 🧩 Contenido del repositorio
+
+Los ejercicios desarrollados permiten:
+
+- Implementar comunicación UART mediante comandos
+- Crear y gestionar múltiples tareas concurrentes con FreeRTOS
+- Sincronizar tareas usando mecanismos del RTOS
+- Aplicar modos de bajo consumo del ESP32
+- Diseñar un sistema embebido modular, estable y verificable
+
+---
+
+## ⚙️ Requisitos técnicos
+
+- **Microcontrolador:** ESP32  
+- **Framework:** ESP-IDF  
+- **RTOS:** FreeRTOS  
+- **Comunicación:** UART  
+- **Lenguaje:** C  
+- **Entorno de desarrollo:** VS Code + ESP-IDF  
+- **Extensiones recomendadas:**
+  - PlatformIO
+  - Serial Monitor
+  - Wokwi para VS Code
+
+---
+
+## ▶️ Cómo ejecutar el proyecto
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/chris816wui/Tarea-5-Lema
+
