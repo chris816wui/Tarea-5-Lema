@@ -45,3 +45,24 @@ Los ejercicios desarrollados permiten:
    ```bash
    git clone https://github.com/chris816wui/Tarea-5-Lema
 
+2. Instalar las extensiones necesarias en VS Code
+
+- PlatformIO
+- Serial Monitor
+- Wokwi
+
+3. Compilar el proyecto
+
+Compila el proyecto utilizando PlatformIO.
+
+4. Configurar el monitor serial
+
+Configura el monitor serial con los siguientes parámetros:
+
+- Modo: TCP
+- Host: localhost
+- Puerto: 4000
+
+5. Ejecutar la simulación
+
+Ejecuta el archivo diagram.json y simula cada ejercicio desde el entorno de Wokwi en VS Code.
